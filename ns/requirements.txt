@@ -5,7 +5,6 @@ requests
 plotly
 matplotlib
 str2bool
-pprint
 arrow
 tornado
 pandas
